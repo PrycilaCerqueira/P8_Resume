@@ -1,3 +1,7 @@
-* {
+[lang="es"] {
     font-weight: bold;
+}
+
+[lang="pt"]{
+    font-style: italic;
 }
