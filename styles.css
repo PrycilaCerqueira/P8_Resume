@@ -11,5 +11,9 @@ ul, ol {
 }
 
 section p {
-    font-size: larger;
+    font-size: large;
+}
+
+nav > ul {
+    list-style: circle;
 }
