@@ -5,3 +5,7 @@
 #education {
     font-family: Georgia;
 }
+
+ul, ol {
+    font-weight: bold;
+}
