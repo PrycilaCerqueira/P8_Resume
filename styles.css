@@ -9,3 +9,7 @@
 ul, ol {
     font-weight: bold;
 }
+
+section p {
+    font-size: larger;
+}
