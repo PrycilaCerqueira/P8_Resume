@@ -29,3 +29,7 @@ input:focus, select:focus{
 section:not(#contactme){
     color: darkblue;
 }
+
+h1::first-letter{
+    color: tomato;
+}
