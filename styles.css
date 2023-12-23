@@ -33,3 +33,7 @@ section:not(#contactme){
 h1::first-letter{
     color: tomato;
 }
+
+:is(ul.resume-list, ol) li {
+    outline: solid red 1px;
+}
