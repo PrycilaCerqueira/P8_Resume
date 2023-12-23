@@ -25,3 +25,7 @@ a:visited{
 input:focus, select:focus{
     outline: 2px solid black;
 }
+
+section:not(#contactme){
+    color: darkblue;
+}
