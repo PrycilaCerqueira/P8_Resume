@@ -17,3 +17,7 @@ section p {
 nav > ul {
     list-style: circle;
 }
+
+a:visited{
+    color: blueviolet;
+}
