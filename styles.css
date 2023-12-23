@@ -21,3 +21,7 @@ nav > ul {
 a:visited{
     color: blueviolet;
 }
+
+input:focus, select:focus{
+    outline: 2px solid black;
+}
