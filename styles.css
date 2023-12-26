@@ -37,3 +37,10 @@ h1::first-letter{
 :is(ul.resume-list, ol) li {
     outline: solid red 1px;
 }
+
+#contactme fieldset{
+    border-style: double;
+    width: 515px;
+    height: 175px;
+        
+}
