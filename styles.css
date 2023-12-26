@@ -1,3 +1,14 @@
+* {
+    box-sizing: border-box;   
+}
+
+body {
+    max-width: 700px;
+    padding: 0 2rem;
+    border-left: solid 2px black;
+    border-right: solid 2px black;
+}
+
 [class~="resume-unordered-lists"]{
     font-style: italic;
 }
@@ -40,7 +51,8 @@ h1::first-letter{
 
 #contactme fieldset{
     border-style: double;
-    width: 515px;
-    height: 175px;
+    width: 545px;
+    height: 200px;
         
 }
+
