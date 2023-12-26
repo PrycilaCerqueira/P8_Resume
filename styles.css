@@ -2,9 +2,10 @@
     box-sizing: border-box;   
 }
 
-body {
+main {
     max-width: 700px;
     padding: 0 2rem;
+    margin-left: 180px;
     border-left: solid 2px black;
     border-right: solid 2px black;
 }
@@ -23,6 +24,11 @@ ul, ol {
 
 section p {
     font-size: large;
+}
+
+nav{
+    position: fixed;
+
 }
 
 nav > ul {
