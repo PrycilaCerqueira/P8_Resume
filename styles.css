@@ -27,7 +27,8 @@ section p {
 }
 
 nav{
-    position: fixed;
+    position:sticky;
+    top: 0px;
 
 }
 
