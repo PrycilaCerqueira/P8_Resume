@@ -65,14 +65,21 @@ h1::first-letter{
 }
 
 #resume-backgroud-img{
-    max-width: 37%;
+    max-width: 20%;
     float: left;
     margin-right: 2rem;
     
 }
 
 .personal-info{
-    
+    display: grid;
+    grid-template-columns: max-content auto;
+}
+.personal-info dt{
+    grid-column-start: 1;
+}
+.personal-info dd{
+    grid-column-start: 2;
 }
 
 
