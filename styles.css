@@ -32,8 +32,9 @@ nav{
 
 }
 
-nav > ul {
+nav ul li {
     list-style: circle;
+    display: inline;
 }
 
 a:visited{
