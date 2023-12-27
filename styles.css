@@ -65,8 +65,14 @@ h1::first-letter{
 }
 
 #resume-backgroud-img{
-    height: 100px;
-    width: 600px;
+    max-width: 37%;
+    float: left;
+    margin-right: 2rem;
+    
+}
+
+.personal-info{
+    
 }
 
 
