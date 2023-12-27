@@ -1,6 +1,7 @@
 * {
     box-sizing: border-box;  
-    writing-mode:vertical-rl; 
+    writing-mode:horizontal-tb; 
+    direction:rtl;
 }
 
 main {
