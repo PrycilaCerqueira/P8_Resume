@@ -71,7 +71,8 @@ h1::first-letter{
 }
 
 #resume-backgroud-img{
-    max-width: 20%;
+    max-height: 20%;
+    max-width: 30%;
     float: left;
     margin-right: 2rem;
     
