@@ -1,7 +1,7 @@
 * {
     box-sizing: border-box;  
-    writing-mode: vertical-rl; 
-    direction:rtl;
+    writing-mode: horizontal-tb; 
+    direction:ltr;
     text-orientation: upright;
 }
 
@@ -31,7 +31,8 @@ section p {
 
 nav{
     position:sticky;
-    top: 0px;
+    inset-inline-start: 0px;
+    text-align: center;
 
 }
 
@@ -85,6 +86,7 @@ h1::first-letter{
 }
 .personal-info dd{
     grid-column-start: 2;
+    margin-inline-start: 5px;
 }
 
 
